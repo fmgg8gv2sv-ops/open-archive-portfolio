@@ -12,10 +12,10 @@ export type Reason = {
 // Edit this profile and the entries below to make the template your own.
 export const templateProfile = {
   brand: 'STUDIO',
-  name: 'YOUR NAME',
+  name: 'XING WENYI',
   role: 'Independent creative',
   discipline: 'INDEPENDENT CREATIVE',
-  disciplines: 'Visual design / Illustration / Creative practice',
+  disciplines: '',
   pageTitle: 'An Open Archive',
   website: 'https://example.com',
   location: 'Your city',
