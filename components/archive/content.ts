@@ -11,14 +11,13 @@ export type Reason = {
 
 // Edit this profile and the entries below to make the template your own.
 export const templateProfile = {
-  brand: 'STUDIO',
+  brand: 'XWY STUDIO',
   name: 'XING WENYI',
-  role: 'Independent creative',
+  role: 'Creative & Data  Analyst',
   discipline: 'INDEPENDENT CREATIVE',
   disciplines: '',
   pageTitle: 'An Open Archive',
   website: 'https://example.com',
-  location: 'Your city',
   introduction: 'A space for ideas, observations, and work in progress.',
   biography: 'Replace this with a short introduction to your creative practice. Describe what you make, what you notice, and what you would like to explore next.',
 };
